@@ -1,0 +1,897 @@
+{
+ "version": 1,
+ "files": [
+  {
+   "path": "csgo_addons/characters/kolka/fortnite_dance.vmdl_c",
+   "size": 6239204
+  },
+  {
+   "path": "icons/DanceMoves.png",
+   "size": 3657
+  },
+  {
+   "path": "icons/ElectroShuffle.png",
+   "size": 3982
+  },
+  {
+   "path": "icons/Emote_AerobicChamp.png",
+   "size": 3817
+  },
+  {
+   "path": "icons/Emote_AirShredder.png",
+   "size": 5207
+  },
+  {
+   "path": "icons/Emote_BandOfTheFort.png",
+   "size": 4337
+  },
+  {
+   "path": "icons/Emote_Bendy.png",
+   "size": 4472
+  },
+  {
+   "path": "icons/Emote_BlindingLights.png",
+   "size": 3947
+  },
+  {
+   "path": "icons/Emote_BlowKiss.png",
+   "size": 3366
+  },
+  {
+   "path": "icons/Emote_Boogie_Down_Intro.png",
+   "size": 4454
+  },
+  {
+   "path": "icons/Emote_Bring_It_On.png",
+   "size": 3727
+  },
+  {
+   "path": "icons/Emote_Calculated.png",
+   "size": 5352
+  },
+  {
+   "path": "icons/Emote_Capoeira.png",
+   "size": 5200
+  },
+  {
+   "path": "icons/Emote_Celebration_Loop.png",
+   "size": 4203
+  },
+  {
+   "path": "icons/Emote_Cena.png",
+   "size": 4056
+  },
+  {
+   "path": "icons/Emote_Charleston.png",
+   "size": 3576
+  },
+  {
+   "path": "icons/Emote_Chicken.png",
+   "size": 4260
+  },
+  {
+   "path": "icons/Emote_Chug.png",
+   "size": 4451
+  },
+  {
+   "path": "icons/Emote_Confused.png",
+   "size": 4118
+  },
+  {
+   "path": "icons/Emote_Crossbounce.png",
+   "size": 3850
+  },
+  {
+   "path": "icons/Emote_Cry.png",
+   "size": 4224
+  },
+  {
+   "path": "icons/Emote_DG_Disco.png",
+   "size": 4450
+  },
+  {
+   "path": "icons/Emote_Dab.png",
+   "size": 3974
+  },
+  {
+   "path": "icons/Emote_Dance_Breakdance.png",
+   "size": 4445
+  },
+  {
+   "path": "icons/Emote_Dance_Disco_T3.png",
+   "size": 4450
+  },
+  {
+   "path": "icons/Emote_Dance_Loser.png",
+   "size": 4191
+  },
+  {
+   "path": "icons/Emote_Dance_NoBones.png",
+   "size": 4863
+  },
+  {
+   "path": "icons/Emote_Dance_Pump.png",
+   "size": 4904
+  },
+  {
+   "path": "icons/Emote_Dance_RideThePony.png",
+   "size": 4319
+  },
+  {
+   "path": "icons/Emote_Dance_Shoot.png",
+   "size": 4544
+  },
+  {
+   "path": "icons/Emote_Dance_SwipeIt.png",
+   "size": 4578
+  },
+  {
+   "path": "icons/Emote_Dance_Worm.png",
+   "size": 4491
+  },
+  {
+   "path": "icons/Emote_DistractionDance.png",
+   "size": 4237
+  },
+  {
+   "path": "icons/Emote_DustOffShoulders.png",
+   "size": 3965
+  },
+  {
+   "path": "icons/Emote_DustingOffHands.png",
+   "size": 4153
+  },
+  {
+   "path": "icons/Emote_EasternBloc_Start.png",
+   "size": 5026
+  },
+  {
+   "path": "icons/Emote_Facepalm.png",
+   "size": 3660
+  },
+  {
+   "path": "icons/Emote_FancyFeet.png",
+   "size": 4190
+  },
+  {
+   "path": "icons/Emote_Fishing.png",
+   "size": 4597
+  },
+  {
+   "path": "icons/Emote_Flex.png",
+   "size": 4509
+  },
+  {
+   "path": "icons/Emote_FlippnSexy.png",
+   "size": 4845
+  },
+  {
+   "path": "icons/Emote_FlossDance.png",
+   "size": 4150
+  },
+  {
+   "path": "icons/Emote_Fonzie_Pistol.png",
+   "size": 4481
+  },
+  {
+   "path": "icons/Emote_Fresh.png",
+   "size": 4185
+  },
+  {
+   "path": "icons/Emote_Friday13.png",
+   "size": 4604
+  },
+  {
+   "path": "icons/Emote_Gangnam_Style.png",
+   "size": 4469
+  },
+  {
+   "path": "icons/Emote_Ghostbusters.png",
+   "size": 4223
+  },
+  {
+   "path": "icons/Emote_Griddy.png",
+   "size": 4411
+  },
+  {
+   "path": "icons/Emote_GrooveJam.png",
+   "size": 4298
+  },
+  {
+   "path": "icons/Emote_HandSignals.png",
+   "size": 5218
+  },
+  {
+   "path": "icons/Emote_Headbanger.png",
+   "size": 4091
+  },
+  {
+   "path": "icons/Emote_HeelClick.png",
+   "size": 4837
+  },
+  {
+   "path": "icons/Emote_Hillbilly_Shuffle_Intro.png",
+   "size": 4424
+  },
+  {
+   "path": "icons/Emote_Hiphop_01.png",
+   "size": 3927
+  },
+  {
+   "path": "icons/Emote_HitchHiker.png",
+   "size": 4275
+  },
+  {
+   "path": "icons/Emote_Hotstuff.png",
+   "size": 4379
+  },
+  {
+   "path": "icons/Emote_Hula_Start.png",
+   "size": 4478
+  },
+  {
+   "path": "icons/Emote_IBreakYou.png",
+   "size": 3736
+  },
+  {
+   "path": "icons/Emote_IHeartYou.png",
+   "size": 4019
+  },
+  {
+   "path": "icons/Emote_ILikeToMoveIt.png",
+   "size": 4505
+  },
+  {
+   "path": "icons/Emote_InDaGhetto.png",
+   "size": 4376
+  },
+  {
+   "path": "icons/Emote_InfiniDab_Intro.png",
+   "size": 4249
+  },
+  {
+   "path": "icons/Emote_Intensity_Start.png",
+   "size": 4034
+  },
+  {
+   "path": "icons/Emote_IrishJig_Start.png",
+   "size": 3622
+  },
+  {
+   "path": "icons/Emote_ItsGoTime.png",
+   "size": 3920
+  },
+  {
+   "path": "icons/Emote_KneeSlapper.png",
+   "size": 4175
+  },
+  {
+   "path": "icons/Emote_KoreanEagle.png",
+   "size": 4021
+  },
+  {
+   "path": "icons/Emote_Kpop_02.png",
+   "size": 3962
+  },
+  {
+   "path": "icons/Emote_KungFu_Salute.png",
+   "size": 3349
+  },
+  {
+   "path": "icons/Emote_Laugh.png",
+   "size": 4359
+  },
+  {
+   "path": "icons/Emote_Lebron.png",
+   "size": 3939
+  },
+  {
+   "path": "icons/Emote_LivingLarge.png",
+   "size": 4620
+  },
+  {
+   "path": "icons/Emote_Luchador.png",
+   "size": 4203
+  },
+  {
+   "path": "icons/Emote_Macarena.png",
+   "size": 4162
+  },
+  {
+   "path": "icons/Emote_Make_It_Rain.png",
+   "size": 4574
+  },
+  {
+   "path": "icons/Emote_Maracas.png",
+   "size": 4052
+  },
+  {
+   "path": "icons/Emote_Martian.png",
+   "size": 4750
+  },
+  {
+   "path": "icons/Emote_Mask_Off_Intro.png",
+   "size": 4434
+  },
+  {
+   "path": "icons/Emote_NeverGonna.png",
+   "size": 4440
+  },
+  {
+   "path": "icons/Emote_NinjaStyle.png",
+   "size": 4441
+  },
+  {
+   "path": "icons/Emote_NotToday.png",
+   "size": 3975
+  },
+  {
+   "path": "icons/Emote_PopLock.png",
+   "size": 4451
+  },
+  {
+   "path": "icons/Emote_PopRock.png",
+   "size": 4033
+  },
+  {
+   "path": "icons/Emote_PumpUpTheJam.png",
+   "size": 3958
+  },
+  {
+   "path": "icons/Emote_PumpkinDance.png",
+   "size": 4904
+  },
+  {
+   "path": "icons/Emote_RememberMe_Intro.png",
+   "size": 3826
+  },
+  {
+   "path": "icons/Emote_Renegade.png",
+   "size": 3700
+  },
+  {
+   "path": "icons/Emote_RobotDance.png",
+   "size": 4572
+  },
+  {
+   "path": "icons/Emote_RockPaperScissor_Paper.png",
+   "size": 3765
+  },
+  {
+   "path": "icons/Emote_RockPaperScissor_Rock.png",
+   "size": 3765
+  },
+  {
+   "path": "icons/Emote_RockPaperScissor_Scissor.png",
+   "size": 3765
+  },
+  {
+   "path": "icons/Emote_Rollie.png",
+   "size": 4221
+  },
+  {
+   "path": "icons/Emote_RushinAround.png",
+   "size": 4463
+  },
+  {
+   "path": "icons/Emote_Salt.png",
+   "size": 3863
+  },
+  {
+   "path": "icons/Emote_Salute.png",
+   "size": 3741
+  },
+  {
+   "path": "icons/Emote_SaySo.png",
+   "size": 4559
+  },
+  {
+   "path": "icons/Emote_Scenario.png",
+   "size": 4028
+  },
+  {
+   "path": "icons/Emote_Showstopper.png",
+   "size": 4618
+  },
+  {
+   "path": "icons/Emote_SmoothDrive.png",
+   "size": 3360
+  },
+  {
+   "path": "icons/Emote_Smooth_Moves.png",
+   "size": 4304
+  },
+  {
+   "path": "icons/Emote_Snap.png",
+   "size": 4361
+  },
+  {
+   "path": "icons/Emote_Sprinkler.png",
+   "size": 4284
+  },
+  {
+   "path": "icons/Emote_StageBow.png",
+   "size": 4493
+  },
+  {
+   "path": "icons/Emote_Stuck.png",
+   "size": 4675
+  },
+  {
+   "path": "icons/Emote_TRex.png",
+   "size": 3979
+  },
+  {
+   "path": "icons/Emote_TechnoZombie.png",
+   "size": 5141
+  },
+  {
+   "path": "icons/Emote_ThumbsDown.png",
+   "size": 3965
+  },
+  {
+   "path": "icons/Emote_ThumbsUp.png",
+   "size": 3839
+  },
+  {
+   "path": "icons/Emote_ToosieSlide.png",
+   "size": 4084
+  },
+  {
+   "path": "icons/Emote_Twist.png",
+   "size": 4633
+  },
+  {
+   "path": "icons/Emote_Walkywalk_Walk.png",
+   "size": 3818
+  },
+  {
+   "path": "icons/Emote_WarehouseDance_Start.png",
+   "size": 4864
+  },
+  {
+   "path": "icons/Emote_Wave2.png",
+   "size": 3454
+  },
+  {
+   "path": "icons/Emote_Wiggle.png",
+   "size": 4369
+  },
+  {
+   "path": "icons/Emote_Yeet.png",
+   "size": 4700
+  },
+  {
+   "path": "icons/Emote_Youre_Awesome.png",
+   "size": 4793
+  },
+  {
+   "path": "icons/Emote_Zippy_Dance.png",
+   "size": 4244
+  },
+  {
+   "path": "icons/Emote_golfclap.png",
+   "size": 4018
+  },
+  {
+   "path": "icons/Emote_guitar.png",
+   "size": 6330
+  },
+  {
+   "path": "music/DanceMoves.wav",
+   "size": 29336
+  },
+  {
+   "path": "music/ElectroShuffle.wav",
+   "size": 30632
+  },
+  {
+   "path": "music/Emote_AerobicChamp.wav",
+   "size": 50792
+  },
+  {
+   "path": "music/Emote_AirShredder.wav",
+   "size": 94136
+  },
+  {
+   "path": "music/Emote_BandOfTheFort.wav",
+   "size": 35960
+  },
+  {
+   "path": "music/Emote_Bendy.wav",
+   "size": 36968
+  },
+  {
+   "path": "music/Emote_BlindingLights.wav",
+   "size": 56840
+  },
+  {
+   "path": "music/Emote_BlowKiss.wav",
+   "size": 2840
+  },
+  {
+   "path": "music/Emote_BoogieDown.wav",
+   "size": 73688
+  },
+  {
+   "path": "music/Emote_Calculated.wav",
+   "size": 11912
+  },
+  {
+   "path": "music/Emote_Capoeira.wav",
+   "size": 33080
+  },
+  {
+   "path": "music/Emote_Celebration.wav",
+   "size": 13064
+  },
+  {
+   "path": "music/Emote_Cena.wav",
+   "size": 29912
+  },
+  {
+   "path": "music/Emote_Charleston.wav",
+   "size": 29912
+  },
+  {
+   "path": "music/Emote_Chicken.wav",
+   "size": 15080
+  },
+  {
+   "path": "music/Emote_Crossbounce.wav",
+   "size": 60584
+  },
+  {
+   "path": "music/Emote_Cry.wav",
+   "size": 31784
+  },
+  {
+   "path": "music/Emote_DG_Disco.wav",
+   "size": 30056
+  },
+  {
+   "path": "music/Emote_Dance_Breakdance.wav",
+   "size": 29768
+  },
+  {
+   "path": "music/Emote_Dance_Disco_T3.wav",
+   "size": 34520
+  },
+  {
+   "path": "music/Emote_Dance_Loser.wav",
+   "size": 50936
+  },
+  {
+   "path": "music/Emote_Dance_NoBones.wav",
+   "size": 61880
+  },
+  {
+   "path": "music/Emote_Dance_Pump.wav",
+   "size": 55832
+  },
+  {
+   "path": "music/Emote_Dance_RideThePony.wav",
+   "size": 7448
+  },
+  {
+   "path": "music/Emote_Dance_Shoot.wav",
+   "size": 54248
+  },
+  {
+   "path": "music/Emote_Dance_SwipeIt.wav",
+   "size": 53384
+  },
+  {
+   "path": "music/Emote_Dance_Worm.wav",
+   "size": 27896
+  },
+  {
+   "path": "music/Emote_DistractionDance.wav",
+   "size": 29912
+  },
+  {
+   "path": "music/Emote_DustOffShoulders.wav",
+   "size": 83768
+  },
+  {
+   "path": "music/Emote_DustingOffHands.wav",
+   "size": 13640
+  },
+  {
+   "path": "music/Emote_EasternBloc.wav",
+   "size": 57704
+  },
+  {
+   "path": "music/Emote_Facepalm.wav",
+   "size": 9608
+  },
+  {
+   "path": "music/Emote_FancyFeet.wav",
+   "size": 67784
+  },
+  {
+   "path": "music/Emote_Fishing.wav",
+   "size": 16520
+  },
+  {
+   "path": "music/Emote_Flex.wav",
+   "size": 36248
+  },
+  {
+   "path": "music/Emote_FlippnSexy.wav",
+   "size": 14936
+  },
+  {
+   "path": "music/Emote_FlossDance.wav",
+   "size": 33800
+  },
+  {
+   "path": "music/Emote_Fresh.wav",
+   "size": 20696
+  },
+  {
+   "path": "music/Emote_Friday13.wav",
+   "size": 62168
+  },
+  {
+   "path": "music/Emote_Gangnam_Style.wav",
+   "size": 116312
+  },
+  {
+   "path": "music/Emote_Ghostbusters.wav",
+   "size": 133880
+  },
+  {
+   "path": "music/Emote_Griddy.wav",
+   "size": 98168
+  },
+  {
+   "path": "music/Emote_GrooveJam.wav",
+   "size": 60872
+  },
+  {
+   "path": "music/Emote_HandSignals.wav",
+   "size": 38696
+  },
+  {
+   "path": "music/Emote_Headbanger.wav",
+   "size": 109544
+  },
+  {
+   "path": "music/Emote_HeelClick.wav",
+   "size": 8168
+  },
+  {
+   "path": "music/Emote_Hillbilly_Shuffle.wav",
+   "size": 28472
+  },
+  {
+   "path": "music/Emote_Hip_Hop.wav",
+   "size": 58568
+  },
+  {
+   "path": "music/Emote_HitchHiker.wav",
+   "size": 67064
+  },
+  {
+   "path": "music/Emote_Hotstuff.wav",
+   "size": 12344
+  },
+  {
+   "path": "music/Emote_Hula.wav",
+   "size": 56840
+  },
+  {
+   "path": "music/Emote_ILikeToMoveIt.wav",
+   "size": 29912
+  },
+  {
+   "path": "music/Emote_InDaGhetto.wav",
+   "size": 61016
+  },
+  {
+   "path": "music/Emote_InfiniDab.wav",
+   "size": 62168
+  },
+  {
+   "path": "music/Emote_Intensity.wav",
+   "size": 141656
+  },
+  {
+   "path": "music/Emote_IrishJig.wav",
+   "size": 48632
+  },
+  {
+   "path": "music/Emote_ItsGoTime.wav",
+   "size": 61880
+  },
+  {
+   "path": "music/Emote_KneeSlapper.wav",
+   "size": 125096
+  },
+  {
+   "path": "music/Emote_KoreanEagle.wav",
+   "size": 74984
+  },
+  {
+   "path": "music/Emote_Kpop.wav",
+   "size": 31064
+  },
+  {
+   "path": "music/Emote_Laugh.wav",
+   "size": 37112
+  },
+  {
+   "path": "music/Emote_Lebron.wav",
+   "size": 36536
+  },
+  {
+   "path": "music/Emote_LivingLarge.wav",
+   "size": 66632
+  },
+  {
+   "path": "music/Emote_Luchador.wav",
+   "size": 27608
+  },
+  {
+   "path": "music/Emote_Macarena.wav",
+   "size": 300632
+  },
+  {
+   "path": "music/Emote_Make_It_Rain.wav",
+   "size": 18968
+  },
+  {
+   "path": "music/Emote_Maracas.wav",
+   "size": 32936
+  },
+  {
+   "path": "music/Emote_Martian.wav",
+   "size": 104216
+  },
+  {
+   "path": "music/Emote_Mask_Off.wav",
+   "size": 76136
+  },
+  {
+   "path": "music/Emote_NeverGonna.wav",
+   "size": 134888
+  },
+  {
+   "path": "music/Emote_NinjaStyle.wav",
+   "size": 60296
+  },
+  {
+   "path": "music/Emote_PopLock.wav",
+   "size": 66920
+  },
+  {
+   "path": "music/Emote_PopRock.wav",
+   "size": 64472
+  },
+  {
+   "path": "music/Emote_PumpUpTheJam.wav",
+   "size": 61592
+  },
+  {
+   "path": "music/Emote_PumpkinDance.wav",
+   "size": 50072
+  },
+  {
+   "path": "music/Emote_RememberMe.wav",
+   "size": 158936
+  },
+  {
+   "path": "music/Emote_Renegade.wav",
+   "size": 103784
+  },
+  {
+   "path": "music/Emote_RobotDance.wav",
+   "size": 79592
+  },
+  {
+   "path": "music/Emote_Rollie.wav",
+   "size": 169592
+  },
+  {
+   "path": "music/Emote_RushinAround.wav",
+   "size": 121064
+  },
+  {
+   "path": "music/Emote_Salute.wav",
+   "size": 8312
+  },
+  {
+   "path": "music/Emote_SaySo.wav",
+   "size": 69368
+  },
+  {
+   "path": "music/Emote_Scenario.wav",
+   "size": 131144
+  },
+  {
+   "path": "music/Emote_Showstopper.wav",
+   "size": 59432
+  },
+  {
+   "path": "music/Emote_SmoothDrive.wav",
+   "size": 83912
+  },
+  {
+   "path": "music/Emote_Smooth_Moves.wav",
+   "size": 76424
+  },
+  {
+   "path": "music/Emote_Snap.wav",
+   "size": 8024
+  },
+  {
+   "path": "music/Emote_Sprinkler.wav",
+   "size": 90536
+  },
+  {
+   "path": "music/Emote_StageBow.wav",
+   "size": 13928
+  },
+  {
+   "path": "music/Emote_Stuck.wav",
+   "size": 92264
+  },
+  {
+   "path": "music/Emote_TRex.wav",
+   "size": 51368
+  },
+  {
+   "path": "music/Emote_TechnoZombie.wav",
+   "size": 38840
+  },
+  {
+   "path": "music/Emote_ToosieSlide.wav",
+   "size": 141368
+  },
+  {
+   "path": "music/Emote_Twist.wav",
+   "size": 45032
+  },
+  {
+   "path": "music/Emote_Walkywalk_Walk.wav",
+   "size": 115736
+  },
+  {
+   "path": "music/Emote_WarehouseDance.wav",
+   "size": 127544
+  },
+  {
+   "path": "music/Emote_Wiggle.wav",
+   "size": 21128
+  },
+  {
+   "path": "music/Emote_Yeet.wav",
+   "size": 9320
+  },
+  {
+   "path": "music/Emote_Youre_Awesome.wav",
+   "size": 20120
+  },
+  {
+   "path": "music/Emote_Zippy_Dance.wav",
+   "size": 29768
+  },
+  {
+   "path": "music/Emote_golfclap.wav",
+   "size": 15944
+  },
+  {
+   "path": "music/Emote_guitar.wav",
+   "size": 41000
+  },
+  {
+   "path": "music/unused_dancemoves2.wav",
+   "size": 31784
+  },
+  {
+   "path": "music/unused_emote_hiphop_01.wav",
+   "size": 76136
+  }
+ ]
+}
